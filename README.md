@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>ZRF</title>
     <table>
-      <td>  <img src="C:\Users\WHEN PC\Desktop\hoodie\hmgoepprod.jpeg" width="100" height="100"  alt="ZRF CEO"</td>
+      <td>  <img src="ZRF/AGBADA 1.jpg" width="100" height="100"  alt="ZRF CEO"</td>
       <td><h1>ZAMANI ROYAL FITTINGS </h1></td>
     </table>
 
@@ -16,11 +16,11 @@
 <h5> GALLERY </h5>
 <p> <button type="" class=";" style="background-colour:skyblue"name="button">
  <a href="C:\Users\WHEN PC\Desktop\ZRF\agbada.html">SHOW ME AGBADA</a> </button>
- <button type="SHOW ME MEN WEARS" class=";" style="background-colour:skyblue"name="button">
+ <button type="SHOW ME MEN WEARS" class="; name="button">
   <a href="C:\Users\WHEN PC\Desktop\ZRF\agbada.html">SHOW ME MEN WEARS</a> </button>
-  <button type="SHOW ME ASO EBE SYLES" class=";" style="background-colour:skyblue"name="button">
+  <button type="SHOW ME ASO EBE SYLES" class=";" 
    <a href="C:\Users\WHEN PC\Desktop\ZRF\agbada.html">SHOW ME ASO EBE SYLES</a> </button>
-   <button type="SHOW ME NATIVE SHOES" class=";" style="background-colour:skyblue"name="button">
+   <button type="SHOW ME NATIVE SHOES" class=";" >
     <a href="C:\Users\WHEN PC\Desktop\ZRF\agbada.html">SHOW ME NATIVE SHOES</a> </button>
 </P>
 
